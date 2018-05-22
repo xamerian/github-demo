@@ -2,3 +2,6 @@ git status
 git add start.txt
 git commit -m "Adding Start Text file"
 git push origin master
+
+--Create a new project from git commandline
+git init fresh-project
