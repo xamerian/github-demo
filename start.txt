@@ -5,3 +5,14 @@ git push origin master
 
 --Create a new project from git commandline
 git init fresh-project
+
+--To add an existing project to git 
+--go into the code folder and type
+git init
+
+--to add all files/folders in the project
+git add .
+git commit -m "My first commit, inline"
+
+--Remove .git folder to remove dependency on git 
+del .git 
